@@ -1,0 +1,39 @@
+/*
+# ドッコの説明
+
+ここにコメントとか説明入れたりすると便利！
+
+`.inner_text`で文字を白くする
+
+```
+<div class="box">
+  <p>ボックス1</p>
+</div>
+
+```
+*/
+
+
+.box {
+width: 100%;
+height: 100%;
+background: #000;
+}
+/*
+## テスト
+
+
+
+```
+<div class="box">
+  <p>ボックス1</p>
+</div>
+
+```
+*/
+
+.box {
+width: 500px;
+height: 500px;
+background: #000;
+}
